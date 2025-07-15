@@ -31,7 +31,7 @@ It’s lightweight ⚡, easy-to-use 🧩, and 100% fun!
 bash
 Copy
 Edit
-git clone https://github.com/your-username/stickersmash.git
+git clone https://github.com/Bhuvnesh-Trivedi/Sticker_Smash_App.git
 cd stickersmash
 2️⃣ Install dependencies
 
