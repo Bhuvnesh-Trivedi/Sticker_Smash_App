@@ -1,6 +1,10 @@
 🎉 StickerSmash 🚀
 Welcome to StickerSmash – the coolest way to add fun stickers 🖼️, emojis 😎, and creativity ✨ to your photos!
 
+
+🚀 **Now available on the web!**  
+👉 **[Visit Website 🌐](https://sticker-smash-app-reactnative.netlify.app/)**  
+
 Built with ❤️ by Bhuvnesh Trivedi
 
 🧐 What is StickerSmash?
